@@ -7,7 +7,7 @@
 <a href="https://numpy.org/"><img src="./readme_content/Numpy.png" width="75" height="75"></a>
 <a href="https://matplotlib.org/"><img src="./readme_content/Matplotlib.png" width="75" height="75"></a>
 <a href="https://www.tensorflow.org/"><img src="./readme_content/Tensorflow.png" width="75" height="75"></a>
-<a href="https://colab.google/"><img src="./readme_content/Google_Colab.png" width="150" height="75"></a>
+<a href="https://colab.google/"><img src="./readme_content/Google_Colab.png" width="120" height="75"></a>
 </div>
 
 </br>
